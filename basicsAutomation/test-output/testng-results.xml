@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5285" started-at="2023-06-09T15:48:08 IST" finished-at="2023-06-09T15:48:13 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5285" started-at="2023-06-09T15:48:08 IST" finished-at="2023-06-09T15:48:13 IST">
+      <class name="basics_Automation.TestNgDemo">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:basics_Automation.TestNgDemo@32eebfca]" name="beforeSuite" is-config="true" duration-ms="10" started-at="2023-06-09T15:48:08 IST" finished-at="2023-06-09T15:48:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:basics_Automation.TestNgDemo@32eebfca]" name="beforeTest" is-config="true" duration-ms="0" started-at="2023-06-09T15:48:08 IST" finished-at="2023-06-09T15:48:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:basics_Automation.TestNgDemo@32eebfca]" name="beforeClass" is-config="true" duration-ms="0" started-at="2023-06-09T15:48:08 IST" finished-at="2023-06-09T15:48:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="browserInvoke()[pri:0, instance:basics_Automation.TestNgDemo@32eebfca]" name="browserInvoke" is-config="true" duration-ms="5238" started-at="2023-06-09T15:48:08 IST" finished-at="2023-06-09T15:48:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInvoke -->
+        <test-method status="PASS" signature="f()[pri:0, instance:basics_Automation.TestNgDemo@32eebfca]" name="f" duration-ms="7" started-at="2023-06-09T15:48:13 IST" finished-at="2023-06-09T15:48:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:basics_Automation.TestNgDemo@32eebfca]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-06-09T15:48:13 IST" finished-at="2023-06-09T15:48:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:basics_Automation.TestNgDemo@32eebfca]" name="afterClass" is-config="true" duration-ms="0" started-at="2023-06-09T15:48:13 IST" finished-at="2023-06-09T15:48:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:basics_Automation.TestNgDemo@32eebfca]" name="afterTest" is-config="true" duration-ms="1" started-at="2023-06-09T15:48:13 IST" finished-at="2023-06-09T15:48:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:basics_Automation.TestNgDemo@32eebfca]" name="afterSuite" is-config="true" duration-ms="1" started-at="2023-06-09T15:48:13 IST" finished-at="2023-06-09T15:48:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- basics_Automation.TestNgDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
