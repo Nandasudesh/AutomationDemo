@@ -22,7 +22,7 @@ public class DropDown {
 		
 		WebElement firstOption=selectObj.getFirstSelectedOption(); //current selected element
 		System.out.println(firstOption.getText());
-		
+		System.out.println("hi");
 		WebElement red=driver.findElement(By.xpath("(//option[@value='Red'])[2]"));
 		red.click();
 		WebElement green=driver.findElement(By.xpath("(//option[@value='Green'])[2]"));
