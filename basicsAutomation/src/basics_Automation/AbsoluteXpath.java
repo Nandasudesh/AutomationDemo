@@ -9,7 +9,7 @@ public class AbsoluteXpath {
 
 	public static void main(String[] args) {
 		//set a system property "webdirver.chrome.driver" to the path of the chromeDriver.exe file 
-		System.setProperty("webDriver.chrome.driver","C:\\Users\\nanda\\OneDrive\\Documents\\Nanda\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webDriver.chrome.driver","C:\\Users\\nanda\\OneDrive\\Documents\\Nanda\\chromedriver-win32\\chromedriver.exe");
 		//and instantiate a chromeDriver class
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://selenium.obsqurazone.com/simple-form-demo.php");
